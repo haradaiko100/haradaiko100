@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+[![Anurag's GitHub stats](https://github-readme-stats-flax-ten-22.vercel.app/api?username=haradaiko100&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **haradaiko100/haradaiko100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
